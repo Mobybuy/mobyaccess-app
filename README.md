@@ -1,4 +1,4 @@
-# Gestion location moyenne et longue durée — Lot 1
+# Gestion location moyenne et longue durée — Lot 1 
  
 Contenu du lot 1 : connexion et rôles, validation des comptes, réglages société,
 fiches véhicules, catégories, segments de durée, grilles tarifaires (avec prix
